@@ -1,5 +1,0 @@
-cluster_id,cluster_label,avg_baseline_eur,avg_optimized_eur,avg_savings_eur,avg_savings_pct,avg_baseline_co2_g,avg_optimized_co2_g,avg_co2_savings_g,avg_co2_savings_pct
-0,Tarde,1.3473,0.6896,0.6577,48.7,687.68,521.18,166.49,22.52
-1,Bajo consumo,1.3473,0.6829,0.6644,49.53,687.68,504.73,182.94,25.07
-2,Madrugador,1.3473,0.6782,0.6691,49.77,687.68,502.58,185.1,25.4
-3,Alto consumo,1.3473,0.7057,0.6416,47.93,687.68,497.29,190.39,26.4
