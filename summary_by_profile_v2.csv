@@ -1,0 +1,5 @@
+cluster_id,cluster_label,avg_baseline_eur,avg_optimized_eur,avg_savings_eur,avg_savings_pct
+0,Tarde,1.3473,0.7099,0.6374,46.89
+1,Bajo consumo,1.3473,0.689,0.6583,48.78
+2,Madrugador,1.3473,0.6876,0.6597,48.81
+3,Alto consumo,1.3473,0.7099,0.6374,47.36
