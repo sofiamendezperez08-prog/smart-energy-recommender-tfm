@@ -1,0 +1,5 @@
+device,recommended_hour,price_eur_kwh,energy_kwh,estimated_cost_eur
+Lavadora,11,0.0542,1.0,0.0542
+Lavavajillas,12,0.0554,1.3,0.072
+Secadora,13,0.0557,2.0,0.1113
+Termo eléctrico,0,0.043,2.5,0.1075
