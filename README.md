@@ -9,7 +9,7 @@ de perfiles de consumo y optimización multicriterio sobre tarifas PVPC**
 
 Desarrollar un sistema inteligente capaz de recomendar las mejores horas para utilizar dispositivos domésticos aprovechando los precios dinámicos del PVPC.
 
-## Contenido
+## Contenido/Notebooks
 
 - eda_dataset_uci.ipynb
 - pvpc_prices.ipynb
@@ -26,6 +26,14 @@ Desarrollar un sistema inteligente capaz de recomendar las mejores horas para ut
 - Matplotlib
 - Scikit-learn
 - API e·sios (Red Eléctrica de España)
+
+## Datos
+
+Se emplean:
+
+- Individual Household Electric Power Consumption Dataset (UCI)
+- Precios PVPC obtenidos mediante la API oficial de e·sios
+- Intensidad horaria de emisiones de CO₂
 
 ## Autor
 
